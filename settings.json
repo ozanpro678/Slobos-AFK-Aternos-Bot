@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "nl-01.freezehost.pro",
+    "port": 11054,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
